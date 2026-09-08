@@ -1,0 +1,10 @@
+{
+  "name": "Nutrisentials Protein Supplements Shop",
+  "short_name": "Nutrisentials Shop",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#111827",
+  "orientation": "portrait",
+  "icons": []
+}
